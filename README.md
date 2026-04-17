@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-Software Developer | Game Development Enthusiast | UI/UX Focused<br>I am a developer focused on building efficient, scalable, and engaging digital experiences.  <br>My primary interests lie in **game development, interactive systems, and AI-driven applications**.  <br><br>I enjoy turning complex ideas into clean, functional, and user-friendly products.
+Software Developer | AIML Engineer  | Game Development Enthusiast | UI/UX Focused<br>I am a developer focused on building efficient, scalable, and engaging digital experiences.  <br>My primary interests lie in **game development, interactive systems, and AI-driven applications**.  <br><br>I enjoy turning complex ideas into clean, functional, and user-friendly products.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sahil-VU) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilvu990@gmail.com) 

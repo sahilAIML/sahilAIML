@@ -224,8 +224,6 @@ Leading technical implementation for complex academic systems and competitive so
 
 ## ✦ Contribution Activity
 
-## ✦ Contribution Activity
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilAIML&theme=tokyonight&hide_border=true&bg_color=0D1117&color=8A2BE2&line=5D3FD3&point=4B0082" alt="Contribution Graph" />
 </div>

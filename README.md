@@ -153,21 +153,6 @@ Leading technical implementation for complex academic systems and competitive so
 
 ---
 
-## ✦ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Hackathon Excellence** | Successfully designed and deployed interactive browser software within intense 48-hour competitive constraints. |
-| **System Architecture Design** | Completed 13-stage technical documentation for enterprise management systems. |
-| **Open Source UI Development** | Pioneered component libraries utilizing modern Claymorphism and Neumorphism standards. |
-| **Advanced Algorithmic Implementation** | Successfully integrated client-side WebAssembly rendering for heavy compute operations. |
-
-</div>
-
----
-
 ## ✦ Certifications
 
 ### Cloud Infrastructure

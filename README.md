@@ -57,14 +57,14 @@ With a strong foundation in data science concepts—including dimensionality red
 ### Frontend
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,sass,bootstrap,figma&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,sass,bootstrap,figma&theme=dark" alt="Frontend" />
   </a>
 </div>
 
 ### Backend & Databases
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,redis&theme=dark" alt="Backend & Databases" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb&theme=dark" alt="Backend & Databases" />
   </a>
 </div>
 

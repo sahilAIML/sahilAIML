@@ -71,7 +71,7 @@ With a strong foundation in data science concepts—including dimensionality red
 ### Cloud, DevOps & Tooling
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,supabase,netlify,aws,docker,git,githubactions&theme=dark" alt="Cloud, DevOps & Tooling" />
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,netlify&theme=dark" alt="Cloud, DevOps & Tooling" />
   </a>
 </div>
 

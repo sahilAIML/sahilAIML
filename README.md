@@ -75,15 +75,15 @@ Software Developer • AI & ML Student • Problem Solver
   <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/linked-in-profile-sahil/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sahilvu990@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
+<a href="https://leetcode.com/sahil_067">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
 </a>
 

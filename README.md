@@ -186,13 +186,27 @@ Leading technical implementation for complex academic systems and competitive so
 ---
 
 ## ✦ GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilAIML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=5D3FD3&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilAIML&theme=tokyonight&hide_border=true&background=0D1117&ring=5D3FD3&fire=8A2BE2&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+
+<a href="https://github.com/sahilAIML">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilAIML&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=5D3FD3&text_color=c9d1d9"/>
+</a>
+
+<a href="https://github.com/sahilAIML">
+  <img height="180em" src="https://streak-stats.demolab.com?user=sahilAIML&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=5D3FD3&currStreakLabel=FFFFFF"/>
+</a>
+
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilAIML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="Top Languages" />
+
+<a href="https://github.com/sahilAIML">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilAIML&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9"/>
+</a>
+
 </div>
 
 ---

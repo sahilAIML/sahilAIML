@@ -182,9 +182,9 @@ Software Developer • AI & ML Student • Problem Solver
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://shields.io" alt="Contributor" />
-  <img src="https://shields.io" alt="Streak" />
-  <img src="https://shields.io" alt="AIML" />
+  <img src="https://badgen.net" alt="Contributor" />
+  <img src="https://badgen.net" alt="Streak" />
+  <img src="https://badgen.net" alt="AIML" />
 </p>
 
 

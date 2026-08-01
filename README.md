@@ -181,22 +181,11 @@ Software Developer • AI & ML Student • Problem Solver
 
 # 🏆 GitHub Achievements
 
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="sahilAIML's GitHub streak" />
-</p>
-
-# 🏆 GitHub Achievements
-
 <p align="center">
   <img src="https://shields.io" alt="Contributor" />
   <img src="https://shields.io" alt="Streak" />
   <img src="https://shields.io" alt="AIML" />
 </p>
-
-
-
-
 
 ---
 

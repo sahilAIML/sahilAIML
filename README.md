@@ -178,14 +178,11 @@ Software Developer • AI & ML Student • Problem Solver
 </p>
 
 ---
-# 🏆 GitHub Achievements
+# 🏆 GitHub Analytics
 
 <p align="center">
-  <img src="https://shields.io" alt="Contributor" />
-  <img src="https://shields.io" alt="Streak" />
-  <img src="https://shields.io" alt="AIML" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sahilAIML&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
